@@ -1,0 +1,63 @@
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\appsettings.Development.json
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\appsettings.json
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\health and fitness.staticwebassets.runtime.json
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\health and fitness.exe
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\health and fitness.deps.json
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\health and fitness.runtimeconfig.json
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\health and fitness.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\ref\health and fitness.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\health and fitness.pdb
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Humanizer.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web\health and fitness\health and fitness\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.csproj.AssemblyReference.cache
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.AssemblyInfoInputs.cache
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.AssemblyInfo.cs
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.csproj.CoreCompileInputs.cache
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.MvcApplicationPartsAssemblyInfo.cache
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.RazorAssemblyInfo.cache
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.RazorAssemblyInfo.cs
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\staticwebassets.build.json
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\staticwebassets.development.json
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\scopedcss\bundle\health and fitness.styles.css
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\scopedcss\projectbundle\health and fitness.bundle.scp.css
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.csproj.CopyComplete
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.dll
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\ref\health and fitness.dll
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.pdb
+E:\Web\health and fitness\health and fitness\obj\Debug\net6.0\health and fitness.genruntimeconfig.cache
